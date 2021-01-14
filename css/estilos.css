@@ -7,8 +7,45 @@
     background-color: rgb(16, 3, 88);
     color: aliceblue;
 }
-.row {
+.meta{
     background-color: rgb(31, 9, 156);
     color: aliceblue;
+    height:70px ;
 }
+ h4{
+     color: rgb(30, 60, 228);
+     margin-top: 40px;
+ }
+ .img{
+     margin-top: 40px;
+ }
+ .span{
+    margin-top: 30px;
+    
+ }
+ .text-end1{
+     margin-right:700px;
+    
 
+ }
+  .text-end0{
+      color: rgb(232, 194, 194);
+
+  }
+  .text-end2{
+
+    color: rgb(232, 194, 194);
+
+  }
+  .text-end3{
+
+    color: rgb(232, 194, 194);
+
+  }
+  #row-sm{
+      margin-top: 30px;
+  }
+  .card-text{
+    color: rgb(31, 53, 214);
+  }
+  
